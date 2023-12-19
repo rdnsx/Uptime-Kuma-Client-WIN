@@ -12,8 +12,8 @@ Daily Uptime Tracking: Shows the first uptime of the day.
 
 # How to install:
 
-- Download here
+- Download [here](https://cloud.rdnsx.de/index.php/s/6wYoWJbFxEGqK8k/download).
 
-- Extract to desired path
+- Extract to desired path.
 
 - Start.
