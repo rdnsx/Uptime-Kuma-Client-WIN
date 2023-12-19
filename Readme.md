@@ -1,6 +1,6 @@
 # Uptime Kuma Client for Windows
 <p align="center">
-  <img src="screenshot.png" alt="Screenshot" width="200"/>
+  <img src="screenshot.png" alt="Screenshot" width="250"/>
 </p>
 
 The development of this one was driven by the need for a simple, yet effective Uptime Kuma Client for Windows. Also to make it accessable for all user levels without fiddeling with scripts, and yet having the option to use the push Monitor-Type behind a firewall for example.
