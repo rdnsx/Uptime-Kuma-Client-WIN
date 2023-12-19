@@ -1,4 +1,4 @@
-# Uptime Kuma Client for Windows
+# <p align ="center" Uptime Kuma Client for Windows>
 <p align="center">
   <img src="screenshot.png" alt="Screenshot" width="300"/>
 </p>
